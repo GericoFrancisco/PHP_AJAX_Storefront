@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user username="admin" password="password"><firstName>admin</firstName><lastName>admin</lastName><email>samples@example.com</email><question>1</question><answer>sample school</answer><status>online</status></user>
+    <user username="foo" password="barr"><firstName>foo</firstName><lastName>barr</lastName><email>samples@example.com</email><question>1</question><answer>sample school</answer><status>offline</status></user>
+    <user username="sample" password="123"><firstName>sample</firstName><lastName>sample</lastName><email>sample</email><question>1</question><answer>sample</answer><status>online</status></user>
+<user username="justin" password="ruiz"><firstName>justin</firstName><lastName>ruiz</lastName><email>justin@gmail.com</email><question>1</question><answer>bsu</answer><status>online</status></user><user username="test" password="pash"><firstName>test</firstName><lastName>test</lastName><email>test</email><question>1</question><answer>test</answer><status>online</status></user></users>

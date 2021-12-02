@@ -1,0 +1,786 @@
+<?xml version="1.0"?>
+<products>
+    <!--Men Graphic Tees-->
+    <product productCode = '00001'>
+        <itemName>Jaws</itemName>
+        <price>899</price>
+        <categories>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>White</color>
+        </colors>
+        <description>Round-necked T-shirt in soft, printed cotton jersey.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Graphic/jaws_White.jpg</imagePath>
+            <imagePath>img/Items/Boys/Graphic/jawsModel_White.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00002'>
+        <itemName>Skateboard</itemName>
+        <price>399</price>
+        <categories>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+        </colors>
+        <description>T-shirt in soft cotton jersey with a round neckline and a print motif.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Graphic/LA_Black.jpg</imagePath>
+            <imagePath>img/Items/Boys/Graphic/LAmodel_Black.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00003'>
+        <itemName>Rick and Morty</itemName>
+        <price>799</price>
+        <categories>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+        </colors>
+        <description>T-shirt in soft, printed cotton jersey. Round neckline with a narrow trim.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Graphic/rick_Black.jpg</imagePath>
+            <imagePath>img/Items/Boys/Graphic/rickModel_Black.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00004'>
+        <itemName>The Rolling Stones</itemName>
+        <price>799</price>
+        <categories>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+        </colors>
+        <description>T-shirt in soft, printed cotton jersey. Round neckline with a narrow trim.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Graphic/rolling_Black.jpg</imagePath>
+            <imagePath>img/Items/Boys/Graphic/rollingModel_Black.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00005'>
+        <itemName>Basketball Hoop</itemName>
+        <price>399</price>
+        <categories>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+        </colors>
+        <description>T-shirt in soft cotton jersey with a round neckline and a print motif.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Graphic/venice_Black.jpg</imagePath>
+            <imagePath>img/Items/Boys/Graphic/veniceModel_Black.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00006'>
+        <itemName>Wide Awake</itemName>
+        <price>399</price>
+        <categories>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>White</color>
+        </colors>
+        <description>T-shirt in soft cotton jersey with a round neckline and a print motif.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Graphic/wide_White.jpg</imagePath>
+            <imagePath>img/Items/Boys/Graphic/wideModel_White.jpg</imagePath>
+        </imagePaths>
+    </product>
+
+    <!--Men Polo Shirts-->
+    <product productCode = '00007'>
+        <itemName>Cotton Polo Shirt</itemName>
+        <price>499</price>
+        <categories>
+            <category>Men</category>
+            <category>Polo Shirt</category>
+            <category>Cotton</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Light Blue</color>
+            <color>Mint Green</color>
+            <color>Navy Blue</color>
+        </colors>
+        <description>Polo shirt in cotton piqué with a ribbed collar, button placket, short sleeves with ribbed trims, and slits in the sides.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Poloshirts/Cotton/cottonBlue_Light_Blue.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Cotton/cottonBlueModel_Light_Blue.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Cotton/cottonGreen_Mint_Green.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Cotton/cottonGreenModel_Mint_Green.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Cotton/cottonNavy_Navy_Blue.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Cotton/cottonNavyModel_Navy_Blue.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00008'>
+        <itemName>Pima Cotton Polo Shirt</itemName>
+        <price>1690</price>
+        <categories>
+            <category>Men</category>
+            <category>Polo Shirt</category>
+            <category>Pima Cotton</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Cream</color>
+            <color>Grey</color>
+        </colors>
+        <description>Polo shirt in pima cotton piqué with a ribbed collar, button placket, short sleeves with ribbed trims, and wide ribbing at the hem. Regular Fit.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Poloshirts/Pima/pimaCream_Cream.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Pima/pimaCreamModel_Cream.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Pima/pimaGrey_Grey.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Pima/pimaGreyModel_Grey.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00009'>
+        <itemName>Printed Polo Shirt</itemName>
+        <price>799</price>
+        <categories>
+            <category>Men</category>
+            <category>Polo Shirt</category>
+            <category>Printed</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Dark Beige</color>
+            <color>Navy Blue</color>
+            <color>White</color>
+        </colors>
+        <description>Short-sleeved polo shirt in stretch cotton jersey with a collar and button placket. Slim fit.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Poloshirts/Printed/printbrown_Dark_Beige.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Printed/printbrownmodel_Dark_Beige.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Printed/printnavy_Navy_Blue.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Printed/printnavymodel_Navy_Blue.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Printed/printwhite_White.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/Printed/printwhitemodel_White.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00010'>
+        <itemName>Silk-Blend Polo Shirt</itemName>
+        <price>1990</price>
+        <categories>
+            <category>Men</category>
+            <category>Polo Shirt</category>
+            <category>Silk-Blend</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Grey</color>
+            <color>Navy Blue</color>
+        </colors>
+        <description>Short-sleeved polo shirt in a fine-knit cotton and mulberry silk blend. Button placket, a ribbed collar and rib-trimmed sleeves.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Poloshirts/SilkBlend/silkGrey_Grey.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SilkBlend/silkGreyModel_Grey.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SilkBlend/silkNavy_Navy_Blue.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SilkBlend/silkNavyModel_Navy_Blue.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00011'>
+        <itemName>Slim Fit COOLMAX polo shirt</itemName>
+        <price>899</price>
+        <categories>
+            <category>Men</category>
+            <category>Polo Shirt</category>
+            <category>COOLMAX</category>
+            <category>Slim Fit</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Light Blue</color>
+            <color>Mint Green</color>
+            <color>Light Grey</color>
+        </colors>
+        <description>Short-sleeved polo shirt in piqué made from a cotton blend with a collar and button placket. The shirt incorporates COOLMAX functional fabric, a unique, soft, comfortable and fast-drying polyester fibre that efficiently wicks moisture while regulating temperature.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitCOOLMAX/coolmaxBlue_Light_Blue.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitCOOLMAX/coolmaxBlueModel_Light_Blue.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitCOOLMAX/coolmaxGreen_Mint_Green.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitCOOLMAX/coolmaxGreenModel_Mint_Green.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitCOOLMAX/coolmaxGrey_Light_Grey.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitCOOLMAX/coolmaxGreyModel_Light_Grey.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00012'>
+        <itemName>Slim Fit Polo Shirt</itemName>
+        <price>599</price>
+        <categories>
+            <category>Men</category>
+            <category>Polo Shirt</category>
+            <category>Slim Fit</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+            <color>White</color>
+            <color>Steel Grey</color>
+        </colors>
+        <description>Short-sleeved polo shirt in soft, organic cotton jersey with a collar and button placket.</description>
+        <imagePaths>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitPoloShirt/slimBlack_Black.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitPoloShirt/slimBlackModel_Black.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitPoloShirt/slimGrey_Steel_Grey.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitPoloShirt/slimGreyModel_Steel_Grey.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitPoloShirt/slimWhite_White.jpg</imagePath>
+            <imagePath>img/Items/Boys/Poloshirts/SlimFitPoloShirt/slimWhiteModel_White.jpg</imagePath>
+        </imagePaths>
+    </product>
+
+    <!--Women Graphic Tees-->
+    <product productCode = '00013'>
+        <itemName>Britney Spears</itemName>
+        <price>899</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>White</color>
+        </colors>
+        <description>Classic T-shirt in soft cotton jersey with a print motif, dropped shoulders and ribbing around the neckline.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/Graphic/britney_White.jpg</imagePath>
+            <imagePath>img/Items/Girls/Graphic/britneyModel_White.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00014'>
+        <itemName>Clueless</itemName>
+        <price>899</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+            <category>Oversized</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Cream</color>
+        </colors>
+        <description>Oversized T-shirt in soft cotton jersey with a print motif on the front, a round, ribbed neckline and gently dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/Graphic/clue_Cream.jpg</imagePath>
+            <imagePath>img/Items/Girls/Graphic/clueModel_Cream.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00015'>
+        <itemName>Pink Floyd</itemName>
+        <price>799</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Dark Grey</color>
+        </colors>
+        <description>T-shirt in soft cotton jersey with a print motif front and back, a round, rib-trimmed neckline and gently dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/Graphic/pink_Dark_Grey.jpg</imagePath>
+            <imagePath>img/Items/Girls/Graphic/pinkModel_Dark_Grey.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00016'>
+        <itemName>Ramones</itemName>
+        <price>799</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Dark Grey</color>
+        </colors>
+        <description>Slightly oversized T-shirt in soft, printed cotton jersey with a round neckline and dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/Graphic/ramones_Dark_Grey.jpg</imagePath>
+            <imagePath>img/Items/Girls/Graphic/ramonesModel_Dark_Grey.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00017'>
+        <itemName>The Rolling Stones</itemName>
+        <price>799</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+        </colors>
+        <description>Slightly oversized T-shirt in soft, printed cotton jersey with a round neckline and dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/Graphic/rolling_Black.jpg</imagePath>
+            <imagePath>img/Items/Girls/Graphic/rollingModel_Black.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00018'>
+        <itemName>UCLA</itemName>
+        <price>899</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Graphic Tees</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Cream</color>
+        </colors>
+        <description>Oversized T-shirt in soft cotton jersey with a print motif on the front, a round, ribbed neckline and gently dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/Graphic/ucla_Cream.jpg</imagePath>
+            <imagePath>img/Items/Girls/Graphic/uclaModel_Cream.jpg</imagePath>
+        </imagePaths>
+    </product>
+
+    <!--Women T-Shirt-->
+    <product productCode = '00019'>
+        <itemName>Cotton T-Shirt</itemName>
+        <price>399</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Cotton</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+            <color>Dark Brown</color>
+            <color>Light Grey-blue</color>
+        </colors>
+        <description>Straight-cut T-shirt in soft cotton jersey with a round, rib-trimmed neckline and gently dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/TShirts/Cotton/cottonBlack_Black.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cotton/cottonBlackModel_Black.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cotton/cottonBrown_Dark_Brown.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cotton/cottonBrownModel_Dark_Brown.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cotton/cottonLightGreyBlue_Light_Grey-blue.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cotton/cottonLightGreyBlueModel_Light_Grey-blue.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00020'>
+        <itemName>Cropped T-Shirt</itemName>
+        <price>499</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Cropped</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Light Beige</color>
+            <color>Light Yellow</color>
+            <color>Light Green</color>
+        </colors>
+        <description>Cropped T-shirt in cotton jersey. Relaxed fit with dropped shoulders and embroidered text in the same colour at the back of the neck. The T-shirt has been dyed using plant-based pigments that reduce the use of synthetic chemicals.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/TShirts/Cropped/cropBeige_Light_Beige.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cropped/cropBeigeModel_Light_Beige.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cropped/cropGreen_Light_Green.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cropped/cropGreenModel_Light_Green.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cropped/cropYellow_Light_Yellow.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/Cropped/cropYellowModel_Light_Yellow.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00021'>
+        <itemName>Fine-knit T-Shirt</itemName>
+        <price>799</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Fine-knit</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+            <color>Light Grey</color>
+            <color>Light Yellow</color>
+        </colors>
+        <description>Straight-cut T-shirt in a fine-knit viscose blend. Relaxed fit with dropped shoulders, a ribbed neckline and a straight, ribbed hem with slits in the sides.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/TShirts/FineKnit/fineBlack_Black.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/FineKnit/fineBlackModel_Black.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/FineKnit/fineGrey_Light_Grey.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/FineKnit/fineGreyModel_Light_Grey.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/FineKnit/fineYellow_Light_Yellow.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/FineKnit/fineYellowModel_Light_Yellow.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00022'>
+        <itemName>Linen Jersey T-Shirt</itemName>
+        <price>599</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Linen</category>
+            <category>Jersey</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Light Beige</color>
+            <color>Light Grey</color>
+            <color>Light Greige</color>
+        </colors>
+        <description>T-shirt in marled linen jersey. Relaxed fit with a deep V-neck at the front and dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/TShirts/LinenJersey/linenBeige_Light_Beige.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/LinenJersey/linenBeigeModel_Light_Beige.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/LinenJersey/linenGreige_Light_Greige.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/LinenJersey/linenGreigeModel_Light_Greige.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/LinenJersey/linenGrey_Light_Grey.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/LinenJersey/linenGreyModel_Light_Grey.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00023'>
+        <itemName>Slub Knit Top</itemName>
+        <price>499</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Slub-knit</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Brown</color>
+            <color>Light Beige</color>
+        </colors>
+        <description>Top in soft, fine-knit slub yarn with a collar, V-shaped opening at the front and short sleeves.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/TShirts/SlubKnit/slubBrown_Brown.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/SlubKnit/slubBrownModel_Brown.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/SlubKnit/slubLightBeige_Light_Beige.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/SlubKnit/slubLightBeigeModel_Light_Beige.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00024'>
+        <itemName>Straight Style T-Shirt</itemName>
+        <price>799</price>
+        <categories>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Straight Style</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+            <color>White</color>
+        </colors>
+        <description>Straight-cut T-shirt in cotton jersey with a ribbed neckline and dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Girls/TShirts/StraightStyle/straightBlack_Black.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/StraightStyle/straightBlackModel_Black.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/StraightStyle/straightWhite_White.jpg</imagePath>
+            <imagePath>img/Items/Girls/TShirts/StraightStyle/straightWhiteModel_White.jpg</imagePath>
+        </imagePaths>
+    </product>
+
+    <!--Sale Items Men-->
+    <product productCode = '00025'>
+        <itemName>NASA Graphic T-Shirt</itemName>
+        <price>799</price>
+        <categories>
+            <category>Sale</category>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Relaxed Fit</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+            <color>Grey</color>
+        </colors>
+        <description>T-shirt in printed cotton jersey.</description>
+        <imagePaths>
+            <imagePath>img/Items/Sale/Boys/Graphic/printBlack_Black.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/Graphic/printBlackModel_Black.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/Graphic/printGrey_Grey.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/Graphic/printGreyModel_Grey.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00026'>
+        <itemName>Regular Fit Running Top</itemName>
+        <price>899</price>
+        <categories>
+            <category>Sale</category>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Regular Fit</category>
+            <category>Running Top</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Turquoise</color>
+            <color>Dark Grey</color>
+        </colors>
+        <description>Running top in fast-drying functional fabric designed to help keep you dry and cool while exercising. Short raglan sleeves and reflective details.</description>
+        <imagePaths>
+            <imagePath>img/Items/Sale/Boys/RunningTop/runningBlue_Turquoise.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/RunningTop/runningBlueModel_Turquoise.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/RunningTop/runningOrange_Dark_Grey.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/RunningTop/runningOrangeModel_Dark_Grey.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00027'>
+        <itemName>Relaxed Fit T-Shirt</itemName>
+        <price>349</price>
+        <categories>
+            <category>Sale</category>
+            <category>Men</category>
+            <category>T-Shirt</category>
+            <category>Relaxed Fit</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Black</color>
+            <color>Light Blue</color>
+            <color>Navy Blue</color>
+        </colors>
+        <description>Relaxed-fit, straight-cut T-shirt in soft cotton jersey with a round, rib-trimmed neckline and dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Sale/Boys/RelaxedFit/relaxBlack_Black.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/RelaxedFit/relaxBlackModel_Black.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/RelaxedFit/relaxBlue_Light_Blue.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/RelaxedFit/relaxBlueModel_Light_Blue.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/RelaxedFit/relaxNavy_Navy_Blue.jpg</imagePath>
+            <imagePath>img/Items/Sale/Boys/RelaxedFit/relaxNavyModel_Navy_Blue.jpg</imagePath>
+        </imagePaths>
+    </product>
+
+    <!--Sale Items Women-->
+    <product productCode = '00028'>
+        <itemName>Coca-Cola T-Shirt</itemName>
+        <price>899</price>
+        <categories>
+            <category>Sale</category>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Oversized</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Dark Turquoise</color>
+        </colors>
+        <description>Oversized T-shirt in cotton jersey with a washed look and print motif. Low dropped shoulders and ribbing around the neckline.</description>
+        <imagePaths>
+            <imagePath>img/Items/Sale/Girls/coke_Dark_Turquoise.jpg</imagePath>
+            <imagePath>img/Items/Sale/Girls/cokeModel_Dark_Turquoise.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00029'>
+        <itemName>Sprite T-Shirt</itemName>
+        <price>499</price>
+        <categories>
+            <category>Sale</category>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Jersey</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Dark Grey</color>
+        </colors>
+        <description>Jersey T-shirt with a print motif.</description>
+        <imagePaths>
+            <imagePath>img/Items/Sale/Girls/sprite_Dark_Grey.jpg</imagePath>
+            <imagePath>img/Items/Sale/Girls/spriteModel_Dark_Grey.jpg</imagePath>
+        </imagePaths>
+    </product>
+    <product productCode = '00030'>
+        <itemName>Star Wars T-Shirt</itemName>
+        <price>899</price>
+        <categories>
+            <category>Sale</category>
+            <category>Women</category>
+            <category>T-Shirt</category>
+            <category>Oversized</category>
+        </categories>
+        <sizes>
+            <size>Small</size>
+            <size>Medium</size>
+            <size>Large</size>
+            <size>Extra Large</size>
+        </sizes>
+        <colors>
+            <color>Light Beige</color>
+        </colors>
+        <description>Oversized T-shirt in soft cotton jersey with a print motif on the front, a round, ribbed neckline and gently dropped shoulders.</description>
+        <imagePaths>
+            <imagePath>img/Items/Sale/Girls/star_Light_Beige.jpg</imagePath>
+            <imagePath>img/Items/Sale/Girls/starModel_Light_Beige.jpg</imagePath>
+        </imagePaths>
+    </product>
+</products>
